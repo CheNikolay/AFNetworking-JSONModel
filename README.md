@@ -15,6 +15,7 @@ Lightweight [AFNetworking 3.0](https://github.com/AFNetworking/AFNetworking) cat
 
 * Cocoapods
 * Support another methods
+* Array Response
 * Usage Docs
 
 ## Collaboration
